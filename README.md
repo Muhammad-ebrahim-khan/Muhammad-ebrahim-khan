@@ -73,18 +73,6 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-- 🎓 **Education:** [Your Degree, University]
-- 💼 **Current Role:** [Your Job Title, Company]
-- 🏆 **Achievements:** [Awards/Certifications]
-- 🛠️ **Languages & Tools:** See above!
-- 🌱 **Currently Learning:** [Tech or Framework]
-- 🤝 **Open to Collaboration:** On exciting open-source projects and innovative ideas.
-- 🌐 **Languages:** English, [Others]
-
----
-
 ## 📫 Contact & Links
 
 <p align="center">
