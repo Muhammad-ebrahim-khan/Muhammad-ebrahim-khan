@@ -1,8 +1,6 @@
-<!-- Profile README for Muhammad-ebrahim-khan -->
-
-<!-- TOP WAVE -->
+<!-- Top Water Wave -->
 <p>
-  <img src="https://raw.githubusercontent.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/main/assets/wave-top.svg" alt="wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/main/assets/wave-top.svg" alt="Wave Top" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Ebrahim Khan</h1>
@@ -79,9 +77,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Muhammad-ebrahim-khan" alt="Visitor Badge"/>
 </p>
 
-<!-- BOTTOM WAVE -->
+<!-- Bottom Water Wave -->
 <p>
-  <img src="https://raw.githubusercontent.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/main/assets/wave-bottom.svg" alt="wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/main/assets/wave-bottom.svg" alt="Wave Bottom" width="100%" />
 </p>
 
 <p align="center"><b>Thank you for visiting my profile! 🚀</b></p>
