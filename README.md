@@ -1,97 +1,108 @@
-<h1 align="center">Hi, I'm Muhammad Ebrahim Khan 👋</h1>
+<!-- Profile README for Muhammad-ebrahim-khan -->
 
+<!-- TOP WAVE -->
+<p>
+  <img src="https://raw.githubusercontent.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/main/assets/wave-top.svg" alt="wave" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Muhammad Ebrahim Khan</h1>
 <p align="center">
-  <a href="https://github.com/Muhammad-ebrahim-khan?tab=followers">
-    <img src="https://img.shields.io/github/followers/Muhammad-ebrahim-khan?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-  <a href="https://twitter.com/your_twitter_handle">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?label=Twitter&style=social" alt="Twitter Badge">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0099FF&center=true&width=500&lines=Software+Engineer;Open+Source+Enthusiast;Full+Stack+Developer;Always+Learning+New+Tech;Let%27s+Collab!+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-ebrahim-khan&color=red" alt="Profile Views">
-  <a href="mailto:eb24826399@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eb24826399@gmail.com-red" alt="Email Badge">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&width=435&lines=Passionate+Software+Developer;Lifelong+Learner;Open+Source+Contributor" alt="Typing SVG">
+  <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/github/followers/Muhammad-ebrahim-khan?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
 
-## 🔧 Technologies & Tools
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-ebrahim-khan&theme=gruvbox&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-ebrahim-khan&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515" alt="Muhammad's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-ebrahim-khan&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-ebrahim-khan&show_icons=true&theme=gruvbox&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-ebrahim-khan&theme=gruvbox&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ebrahim-khan&langs_count=8&layout=compact&theme=gruvbox&hide_border=true" height="170"/>
 </p>
 
 ---
 
----
+## 🐍 Contribution Snake
 
-## 📫 Contact
 <p align="center">
-  <a href="mailto:eb24826399@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eb24826399@gmail.com-red" alt="Email Badge">
-  </a>
+  <img src="https://github.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 🌟 Interests
-- Artificial Intelligence and Machine Learning
-- Cloud Computing
-- Open-Source Contributions
+## 🛠️ Skills & Tools
 
----
-
-## 📚 Blog
-I occasionally write articles on my blog about software development and best practices.
-
----
-
-## 🗂️ GitHub Profile Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-ebrahim-khan&theme=radical&column=7&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=151515" alt="GitHub Profile Trophies">
+  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/node.js-339933.svg?&style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032.svg?&style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/aws-232F3E.svg?&style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+## 📝 Latest Blog Posts & Projects
+
+<!-- BLOG-POST-LIST:START -->
+- [Your Latest Project or Blog Post Title](https://github.com/Muhammad-ebrahim-khan/your-project)
+- [Another Interesting Article](https://yourblog.com/post-url)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 **Education:** [Your Degree, University]
+- 💼 **Current Role:** [Your Job Title, Company]
+- 🏆 **Achievements:** [Awards/Certifications]
+- 🛠️ **Languages & Tools:** See above!
+- 🌱 **Currently Learning:** [Tech or Framework]
+- 🤝 **Open to Collaboration:** On exciting open-source projects and innovative ideas.
+- 🌐 **Languages:** English, [Others]
+
+---
+
+## 📫 Contact & Links
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  Thank you for visiting my profile! Have a great day! 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Muhammad-ebrahim-khan" alt="Visitor Badge"/>
 </p>
+
+<!-- BOTTOM WAVE -->
+<p>
+  <img src="https://raw.githubusercontent.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/main/assets/wave-bottom.svg" alt="wave" width="100%" />
+</p>
+
+<p align="center"><b>Thank you for visiting my profile! 🚀</b></p>
