@@ -64,15 +64,6 @@
 
 ---
 
-## 📝 Latest Blog Posts & Projects
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Latest Project or Blog Post Title](https://github.com/Muhammad-ebrahim-khan/your-project)
-- [Another Interesting Article](https://yourblog.com/post-url)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📫 Contact & Links
 
 <p align="center">
