@@ -1,5 +1,4 @@
-<!-- Top Animated Wave SVG (customize or host your own for color changes) -->
-<img src="https://raw.githubusercontent.com/username/assets/main/top-wave.svg" width="100%" alt="Top Wave" />
+<img src="assets/top-wave.svg" width="100%" alt="Top Wave" />
 
 <h1 align="center">Hi 👋, I'm Muhammad Ebrahim Khan</h1>
 
