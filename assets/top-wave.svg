@@ -1,14 +1,1 @@
-<svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg" style="display: block;">
-  <path id="wave" fill="#0099ff" fill-opacity="1">
-    <animate 
-      attributeName="d" 
-      dur="4s"
-      repeatCount="indefinite"
-      values="
-        M0,160 C360,240 1080,80 1440,160 L1440,320 L0,320 Z;
-        M0,120 C400,200 1040,0 1440,120 L1440,320 L0,320 Z;
-        M0,160 C360,240 1080,80 1440,160 L1440,320 L0,320 Z
-      "
-    />
-  </path>
-</svg>
+<img src="assets/sample-wave.gif" width="100%" alt="Animated Wave" />
