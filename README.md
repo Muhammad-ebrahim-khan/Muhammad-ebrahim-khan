@@ -1,28 +1,26 @@
-<!-- Top Water Wave -->
+<!-- Top Animated Wave SVG (generated from haikei.app, you may host your own for custom colors) -->
+<img src="https://raw.githubusercontent.com/username/assets/main/top-wave.svg" width="100%" alt="Top Wave" />
 
 <h1 align="center">Hi 👋, I'm Muhammad Ebrahim Khan</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0099FF&center=true&width=500&lines=Software+Engineer;Open+Source+Enthusiast;Full+Stack+Developer;Always+Learning+New+Tech;Let%27s+Collab!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&width=500&lines=Software+Engineer;Rust+%7C+JavaScript+%7C+HTML+%7C+CSS+Dev;Open+Source+%F0%9F%92%AC;Lifelong+Learner+%F0%9F%8C%8E" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/github/followers/Muhammad-ebrahim-khan?label=Follow&style=social" alt="GitHub Followers"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
+  <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies & GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-ebrahim-khan&theme=gruvbox&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 </p>
-
----
-
-## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-ebrahim-khan&show_icons=true&theme=gruvbox&hide_border=true" height="170" />
@@ -40,40 +38,26 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?&style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/node.js-339933.svg?&style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032.svg?&style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/aws-232F3E.svg?&style=flat-square&logo=amazon-aws&logoColor=white" />
-</p>
+- 🔭 I’m passionate about **Rust, JavaScript, CSS, and HTML**.
+- 🌱 I’m always learning new tech and best practices.
+- 💬 Ask me about **web, backend, and open source!**
+- 📬 How to reach me:
+  <p align="center">
+    <a href="mailto:companyblacktech@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 
 ---
 
-## 📫 Contact & Links
+<!-- Bottom Animated Wave SVG (generated from haikei.app, you may host your own for custom colors) -->
+<img src="https://raw.githubusercontent.com/username/assets/main/bottom-wave.svg" width="100%" alt="Bottom Wave" />
 
-<p align="center">
-  <a href="mailto:companyblacktech@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
+<p align="center"><b>Thank you for visiting my profile! 🚀</b></p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Muhammad-ebrahim-khan" alt="Visitor Badge"/>
 </p>
-
-<!-- Bottom Water Wave -->
-
-<p align="center"><b>Thank you for visiting my profile! 🚀</b></p>
