@@ -1,5 +1,3 @@
-<!-- Top Animated Wave SVG (generated from haikei.app, you may host your own for custom colors) -->
-<img src="https://raw.githubusercontent.com/username/assets/main/top-wave.svg" width="100%" alt="Top Wave" />
 
 <h1 align="center">Hi 👋, I'm Muhammad Ebrahim Khan</h1>
 
@@ -28,15 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-ebrahim-khan&langs_count=8&layout=compact&theme=gruvbox&hide_border=true" height="170"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -52,9 +42,6 @@
   </p>
 
 ---
-
-<!-- Bottom Animated Wave SVG (generated from haikei.app, you may host your own for custom colors) -->
-<img src="https://raw.githubusercontent.com/username/assets/main/bottom-wave.svg" width="100%" alt="Bottom Wave" />
 
 <p align="center"><b>Thank you for visiting my profile! 🚀</b></p>
 
