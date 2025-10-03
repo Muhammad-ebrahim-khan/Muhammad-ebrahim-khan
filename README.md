@@ -1,7 +1,4 @@
 <!-- Top Water Wave -->
-<p>
-  <img src="https://raw.githubusercontent.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/main/assets/wave-top.svg" alt="Wave Top" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Ebrahim Khan</h1>
 <p align="center">
@@ -65,7 +62,7 @@
 ## 📫 Contact & Links
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:companyblacktech@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://github.com/Muhammad-ebrahim-khan"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -78,8 +75,5 @@
 </p>
 
 <!-- Bottom Water Wave -->
-<p>
-  <img src="https://raw.githubusercontent.com/Muhammad-ebrahim-khan/Muhammad-ebrahim-khan/main/assets/wave-bottom.svg" alt="Wave Bottom" width="100%" />
-</p>
 
 <p align="center"><b>Thank you for visiting my profile! 🚀</b></p>
